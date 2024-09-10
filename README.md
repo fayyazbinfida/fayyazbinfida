@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Fayyaz Mohammad
 
-<!--
-**fayyazbinfida/fayyazbinfida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Web Developer** passionate about **Development**. I'm always looking for opportunities to learn and collaborate.
 
-Here are some ideas to get you started:
+Feel free to explore the rest of my repositories to see more of my work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+
+- **Email:** [fayyaz@logicracks.co.uk](mailto:logicracks.co.uk)
+- **Facebook:** [FayyazBinFida](https://www.facebook.com/fayyazbinfida/)
+- **Instagram:** [FayyazBinFida](https://www.instagram.com/fayyazbinfida/)
+- **LinkedIn:** [FayyazBinFida](https://www.linkedin.com/in/fayyazbinfida/)
+- **Twitter:** [@FayyazBinFida](https://twitter.com/fayyazbinfida)
+
+## 🌱 Currently Learning
+
+I'm currently diving deeper into **React JS**, and I'm excited to apply this knowledge in upcoming projects.
+
+## 💬 Let's Chat
+
+I’m always open to discussing new ideas, projects, or collaboration opportunities. Whether it's about technology, open-source contributions, or anything else, feel free to reach out!
