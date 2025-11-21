@@ -35,38 +35,13 @@ I love transforming ideas into digital reality and constantly improving my devel
 
 ---
 
-## 🚀 **Featured Projects**
-
-### 🔹 **🚀 Portfolio Website**
-A modern and responsive portfolio website built with HTML, CSS, and JavaScript.  
-👉 **Live Demo:** https://your-portfolio-link  
-👉 **Repo:** https://github.com/your-repo-link  
-
----
-
-### 🔹 **📱 React To-Do App**
-A clean and interactive task management app built using React JS.  
-👉 **Live Demo:** https://your-todo-demo  
-👉 **Repo:** https://github.com/your-repo-link  
-
----
-
-### 🔹 **🌐 Business Landing Page**
-A responsive landing page designed for company branding & lead generation.  
-👉 **Live Demo:** https://your-landing-page  
-👉 **Repo:** https://github.com/your-repo-link  
-
----
-
 ## 📊 **GitHub Insights**
 
 <div align="center">
 
-<!-- Stats -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=fayyazbinfida&show_icons=true&theme=tokyonight" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazbinfida&layout=compact&theme=tokyonight" />
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fayyazbinfida&theme=tokyo-night" width="100%"/>
 
 </div>
