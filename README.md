@@ -19,17 +19,52 @@ I love transforming ideas into digital reality and constantly improving my devel
 
 ---
 
-## 🛠️ **Tech Stack & Custom Badges**
+## 🛠️ **Tech Stack & Animated Badges**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<!-- HTML5 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" title="HTML5" />  
+<!-- CSS3 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" title="CSS3" />  
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />  
+<!-- React -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" title="React JS" />  
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />  
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" />  
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" />
+
+</div>
+
+---
+
+## 🌐 **Connect With Me (Animated Icons)**
+
+<div align="center">
+
+<a href="mailto:fayyaz@logicracks.co.uk" target="_blank">
+  <img src="https://img.shields.io/badge/Email-fayyaz@logicracks.co.uk-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.facebook.com/fayyazbinfida/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-FayyazBinFida-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://www.instagram.com/fayyazbinfida/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FayyazBinFida-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fayyazbinfida/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-FayyazBinFida-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/FayyazBinFida" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@FayyazBinFida-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
 
 </div>
 
@@ -45,16 +80,6 @@ I love transforming ideas into digital reality and constantly improving my devel
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fayyazbinfida&theme=tokyo-night" width="100%"/>
 
 </div>
-
----
-
-## 📫 **Connect With Me**
-
-- **Email:** [fayyaz@logicracks.co.uk](mailto:fayyaz@logicracks.co.uk)  
-- **Facebook:** [FayyazBinFida](https://www.facebook.com/fayyazbinfida/)  
-- **Instagram:** [FayyazBinFida](https://www.instagram.com/fayyazbinfida/)  
-- **LinkedIn:** [FayyazBinFida](https://www.linkedin.com/in/fayyazbinfida/)  
-- **Twitter:** [@FayyazBinFida](https://twitter.com/FayyazBinFida)
 
 ---
 
