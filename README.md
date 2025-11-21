@@ -2,61 +2,89 @@
 
 # 👋 Hi, I'm **Fayyaz Mohammad**
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;React+JS+Learner;Tech+Enthusiast;Turning+Ideas+Into+Reality" />
+<!-- 🌟 Animated Banner -->
+<img src="https://i.ibb.co/5T7vpmV/animated-banner.gif" width="100%" />
+
+<!-- ✨ Animated Typing Text -->
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&center=true&vCenter=true&width=650&lines=Web+Developer;Frontend+Developer;React+JS+Learner;Tech+Enthusiast;Turning+Ideas+Into+Reality" />
 
 </div>
 
 ---
 
-### **Web Developer | Frontend Enthusiast | React Learner**
+## 👨‍💻 **About Me**
 
 A passionate **Web Developer** focused on building clean, responsive, and user-friendly web interfaces.  
 I love transforming ideas into digital reality and constantly improving my development craft.
 
 ---
 
-## 🚀 **About Me**
-
-- 🌐 I specialize in creating modern and responsive web applications  
-- 💡 Passionate about UI/UX, clean code, and performance  
-- 📘 Currently learning and building projects with **React JS**  
-- 🤝 Open to collaboration, freelance opportunities, and exciting web projects  
-
----
-
-## 🛠️ **Tech Stack**
-
-**Frontend:**  
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React JS`  
-
-**Tools & Platforms:**  
-`Git` • `GitHub` • `VS Code` • `NPM`  
-
----
-
-## 📈 **GitHub Highlights**
+## 🛠️ **Tech Stack & Custom Badges**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fayyazbinfida&show_icons=true&theme=tokyonight" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazbinfida&layout=compact&theme=tokyonight" height="165" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
 
 ---
 
-## 📫 **Get in Touch**
+## 🚀 **Featured Projects**
+
+### 🔹 **🚀 Portfolio Website**
+A modern and responsive portfolio website built with HTML, CSS, and JavaScript.  
+👉 **Live Demo:** https://your-portfolio-link  
+👉 **Repo:** https://github.com/your-repo-link  
+
+---
+
+### 🔹 **📱 React To-Do App**
+A clean and interactive task management app built using React JS.  
+👉 **Live Demo:** https://your-todo-demo  
+👉 **Repo:** https://github.com/your-repo-link  
+
+---
+
+### 🔹 **🌐 Business Landing Page**
+A responsive landing page designed for company branding & lead generation.  
+👉 **Live Demo:** https://your-landing-page  
+👉 **Repo:** https://github.com/your-repo-link  
+
+---
+
+## 📊 **GitHub Insights**
+
+<div align="center">
+
+<!-- Stats -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=fayyazbinfida&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazbinfida&layout=compact&theme=tokyonight" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fayyazbinfida&theme=tokyo-night" width="100%"/>
+
+</div>
+
+---
+
+## 📫 **Connect With Me**
 
 - **Email:** [fayyaz@logicracks.co.uk](mailto:fayyaz@logicracks.co.uk)  
 - **Facebook:** [FayyazBinFida](https://www.facebook.com/fayyazbinfida/)  
 - **Instagram:** [FayyazBinFida](https://www.instagram.com/fayyazbinfida/)  
 - **LinkedIn:** [FayyazBinFida](https://www.linkedin.com/in/fayyazbinfida/)  
-- **Twitter:** [@FayyazBinFida](https://twitter.com/fayyazbinfida)
+- **Twitter:** [@FayyazBinFida](https://twitter.com/FayyazBinFida)
 
 ---
 
-## 💬 **Let’s Work Together**
+## 💬 **Let’s Collaborate**
 
-Have a project or idea in mind?  
-I'm always open to meaningful conversations and collaborations.  
+Have a project or idea?  
+I'm always open to meaningful conversations and collaboration opportunities.  
 Feel free to reach out anytime!
