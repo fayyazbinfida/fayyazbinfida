@@ -1,4 +1,12 @@
-# 👋 Hello, I'm **Fayyaz Mohammad**
+<div align="center">
+
+# 👋 Hi, I'm **Fayyaz Mohammad**
+
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=1E90FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Developer;React+JS+Learner;Tech+Enthusiast;Turning+Ideas+Into+Reality" />
+
+</div>
+
+---
 
 ### **Web Developer | Frontend Enthusiast | React Learner**
 
