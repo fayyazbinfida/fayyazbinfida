@@ -1,21 +1,54 @@
-# 👋 Hi, I'm Fayyaz Mohammad
+# 👋 Hello, I'm **Fayyaz Mohammad**
 
-Welcome to my GitHub profile! I'm a **Web Developer** passionate about **Development**. I'm always looking for opportunities to learn and collaborate.
+### **Web Developer | Frontend Enthusiast | React Learner**
 
-Feel free to explore the rest of my repositories to see more of my work!
+A passionate **Web Developer** focused on building clean, responsive, and user-friendly web interfaces.  
+I love transforming ideas into digital reality and constantly improving my development craft.
 
-## 📫 How to Reach Me
+---
 
-- **Email:** [fayyaz@logicracks.co.uk](mailto:logicracks.co.uk)
-- **Facebook:** [FayyazBinFida](https://www.facebook.com/fayyazbinfida/)
-- **Instagram:** [FayyazBinFida](https://www.instagram.com/fayyazbinfida/)
-- **LinkedIn:** [FayyazBinFida](https://www.linkedin.com/in/fayyazbinfida/)
+## 🚀 **About Me**
+
+- 🌐 I specialize in creating modern and responsive web applications  
+- 💡 Passionate about UI/UX, clean code, and performance  
+- 📘 Currently learning and building projects with **React JS**  
+- 🤝 Open to collaboration, freelance opportunities, and exciting web projects  
+
+---
+
+## 🛠️ **Tech Stack**
+
+**Frontend:**  
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React JS`  
+
+**Tools & Platforms:**  
+`Git` • `GitHub` • `VS Code` • `NPM`  
+
+---
+
+## 📈 **GitHub Highlights**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fayyazbinfida&show_icons=true&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazbinfida&layout=compact&theme=tokyonight" height="165" />
+
+</div>
+
+---
+
+## 📫 **Get in Touch**
+
+- **Email:** [fayyaz@logicracks.co.uk](mailto:fayyaz@logicracks.co.uk)  
+- **Facebook:** [FayyazBinFida](https://www.facebook.com/fayyazbinfida/)  
+- **Instagram:** [FayyazBinFida](https://www.instagram.com/fayyazbinfida/)  
+- **LinkedIn:** [FayyazBinFida](https://www.linkedin.com/in/fayyazbinfida/)  
 - **Twitter:** [@FayyazBinFida](https://twitter.com/fayyazbinfida)
 
-## 🌱 Currently Learning
+---
 
-I'm currently diving deeper into **React JS**, and I'm excited to apply this knowledge in upcoming projects.
+## 💬 **Let’s Work Together**
 
-## 💬 Let's Chat
-
-I’m always open to discussing new ideas, projects, or collaboration opportunities. Whether it's about technology, open-source contributions, or anything else, feel free to reach out!
+Have a project or idea in mind?  
+I'm always open to meaningful conversations and collaborations.  
+Feel free to reach out anytime!
