@@ -13,6 +13,9 @@
   <a href="https://www.facebook.com/fayyazbinfida/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
+  <a href="https://twitter.com/fayyazbinfida" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
   <a href="mailto:fayyaz@logicracks.co.uk">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -37,9 +40,11 @@ I am a passionate **Frontend Developer** dedicated to building responsive, user-
 
 <div align="center">
 
-| **Core & Frameworks** | **Tools & Backend** |
-|:---:|:---:|
-| <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind" /> </p> | <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,nodejs,firebase" /> </p> |
+| **Frontend Core** | **Frameworks & Libs** | **Tools & Version Control** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <br> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <br> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> |
+| **Styling** | **IDE** | **Package Manager** |
+| <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> | <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" /> |
 
 </div>
 
@@ -50,17 +55,11 @@ I am a passionate **Frontend Developer** dedicated to building responsive, user-
 <div align="center">
 
 <a href="https://github.com/fayyazbinfida">
-  <img src="https://github-readme-stats.vercel.app/api?username=fayyazbinfida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Fayyaz's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fayyazbinfida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
-<br/>
 <a href="https://github.com/fayyazbinfida">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazbinfida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazbinfida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </a>
-
-<br/>
-<br/>
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=fayyazbinfida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
