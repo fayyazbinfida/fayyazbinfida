@@ -33,13 +33,6 @@ I am a passionate **Frontend Developer** dedicated to building responsive, user-
 
 ---
 
-### 🚀 **GitHub Achievements**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fayyazbinfida&theme=tokyonight&no-bg=true&margin-w=15" alt="fayyazbinfida" />
-</div>
-
----
-
 ### 🛠️ **Tech Stack & Tools**
 
 <div align="center">
@@ -56,19 +49,18 @@ I am a passionate **Frontend Developer** dedicated to building responsive, user-
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fayyazbinfida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazbinfida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/fayyazbinfida">
+  <img src="https://github-readme-stats.vercel.app/api?username=fayyazbinfida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Fayyaz's GitHub Stats" />
+</a>
+<br/>
+<a href="https://github.com/fayyazbinfida">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayyazbinfida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</a>
 
 <br/>
+<br/>
 
-### 🐍 **Contribution Snake**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fayyazbinfida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fayyazbinfida/fayyazbinfida/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fayyazbinfida/fayyazbinfida/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fayyazbinfida/fayyazbinfida/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-streak-stats.demolab.com/?user=fayyazbinfida&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
